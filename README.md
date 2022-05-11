@@ -1,16 +1,15 @@
 # AeonLabs Smart Passive E-Ink Display Programmer
  A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using magnietic pogo pins to upload a new static image to the E-Ink display.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Smart_Passive_E_Ink_Display.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/total?style=for-the-badge)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/total?style=for-the-badge)
 
 ## Versions
-### AeonLabs improved Hot Solder Reflow Plate
 - revision 2.x (ToDo)
   - Android App to view and control the E-Ink passive Display
 
 - revison 1.x
-  - PCB for the 2.13" E-Ink Passive Display. No batteries or power required.
+  - PCB for programming E-Ink Passive Displays
 
   
 You have 2 options:
@@ -28,8 +27,8 @@ Download the Gerber files in the release section of this repository
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/pcb_back.png)
 
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
@@ -58,7 +57,7 @@ if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Con
 
 =====================================================================================
 ### Share this PCB board files
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20AeonLabs-Smart-Passive-E-Ink-Display%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FAeonLabs-Smart-Passive-E-Ink-Display)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20AeonLabs-Smart-Passive-E-Ink-Display-Programmer%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FAeonLabs-Smart-Passive-E-Ink-Display-Programmer)
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
