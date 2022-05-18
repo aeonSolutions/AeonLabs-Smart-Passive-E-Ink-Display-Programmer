@@ -1,6 +1,8 @@
 # AeonLabs Smart Passive E-Ink Display Programmer
  A PCB for programming E-Ink Displays. Plug the E-Ink Display to this PCB using magnetic pogo pins to upload a new static image to it.
 
+*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
+
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/total?style=for-the-badge)
 
