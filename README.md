@@ -14,9 +14,7 @@
   - PCB for programming E-Ink Passive Displays
 
   
-You have 2 options:
-
-Download this repository for the KiCad Files or, download the Gerber files in the release section of this repository
+PCB fabrication of June 2022 (reviision 1.1) was sponsored by [PCBWay](www.pcbway.com)
 
 ### alternatively if you do not want to build a PCB by yourself, you can buy here:
 
