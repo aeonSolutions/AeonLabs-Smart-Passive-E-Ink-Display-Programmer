@@ -6,6 +6,11 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/total?style=for-the-badge)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Versions
 - revision 2.x (ToDo)
   - Android App to view and control the E-Ink passive Display
