@@ -28,7 +28,7 @@ PCB fabrication of June 2022 (reviision 1.1) was sponsored by [PCBWay](www.pcbwa
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
-[![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/youtube.png)](https://www.youtube.com/watch?v=QxonW-E_LKQ)
+[![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display-Programmer/blob/main/Designs/youtube.png)](https://www.youtube.com/watch?v=QxonW-E_LKQ)
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
